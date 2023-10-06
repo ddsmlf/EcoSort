@@ -1,0 +1,26 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+main{
+    text-align: center;
+}
+main section{
+    padding: 1%;
+    margin-bottom: 3%;
+}
+main div {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+main h2{
+    margin-bottom: 2%;
+}
+main div article{
+    background-color: white;
+    border: 1px solid rgb(243, 243, 243);
+    width: 250px;
+    text-align: center;
+    justify-content: center;
+}

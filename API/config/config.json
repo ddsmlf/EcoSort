@@ -1,0 +1,13 @@
+{
+    "0": "papier",
+    "1": "carton",
+    "2" : "verre",
+    "3": "plastique",
+    "4" : "metal",
+    "5" :"organique",
+    "6" : "dangereux",
+    "7" : "textile",
+    "8" : "encombrant",
+    "9" : "electronique",
+    "10" : "construction"
+}

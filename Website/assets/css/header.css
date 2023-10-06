@@ -1,0 +1,59 @@
+html{
+    background-color: rgb(243, 243, 243);
+}
+body {
+    margin:  3% 10%;
+}
+header {
+    justify-content: space-between;
+    display: flex;
+    list-style: none;
+    border-bottom: 3px solid lightgrey;
+
+}
+header div {
+    height: 5%;
+    align-items: flex-start;
+
+}
+header div ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+}
+header div ul li{
+    margin: 2%;
+}
+header div ul li a{
+    text-decoration: none;
+    color: black;
+}
+header div img{
+    margin: none;
+}
+header div ul li:hover {
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    header label {
+        margin-left: 0;
+        margin-top: 10px;
+
+    }
+
+    header ul {
+        padding-inline-start: 0px;
+        margin-top: 10px;
+    }
+
+    header li {
+        margin: 5px 0;
+    }
+}

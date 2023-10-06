@@ -1,0 +1,13 @@
+{
+    "papier": "bleu",
+    "carton": "bleu",
+    "verre" : "vert",
+    "plastique": "jaune",
+    "metal" : "jaune",
+    "organique" :"marron",
+    "dangereux" : "point-collecte",
+    "textile" : "conteneur_spe",
+    "encombrant" : "point-collecte",
+    "electronique" : "point-collecte",
+    "construction" : "point-collecte"
+}

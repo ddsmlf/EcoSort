@@ -1,0 +1,35 @@
+{
+    "expo": {
+  
+      "name": "EcoSort",
+      "slug": "EcoSort",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./assets/Logo.png",
+      "userInterfaceStyle": "light",
+      "splash": {
+        "image": "./assets/splash.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      },
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "./assets/Logo.png",
+          "backgroundColor": "#FFFFFF"
+        }
+      },
+      "web": {
+        "favicon": "./assets/Logo.png"
+      }
+    }
+  }
+  

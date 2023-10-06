@@ -1,0 +1,27 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+main{
+    justify-content: center;
+    text-align: center;
+    margin-top: 1%;   
+}
+main h1{
+    color: rgb(73, 225, 73)
+}
+main h2{
+    color: rgb(73, 225, 73)
+}
+
+form{
+    margin-top: 1em;
+}
+
+#BtnSubmit{
+    margin-top: 1em;
+}
+#response{
+    font-size: 2em;
+    font-weight: bold;
+    color: rgb(73, 225, 73)
+}
