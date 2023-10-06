@@ -8,9 +8,7 @@
 - [Lancer l'API](#lancer-lapi)
 - [Lancer l'application mobile](#lancer-lapplication-mobile)
 - [Utilisation](#utilisation)
-- [Contributions](#contributions)
 - [Auteurs](#auteurs)
-- [Licence](#licence)
 
 ## Introduction
 
