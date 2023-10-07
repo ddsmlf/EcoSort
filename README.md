@@ -59,7 +59,10 @@ pip install -r requirements.txt
 cd API
 ```
 
-2. Lancez l'API Flask en exécutant `app.py` :
+2. Téléchargez le poids ONNX depuis [ce lien](https://drive.google.com/file/d/1qzvO49ij8cSnpNURjtUGdGALYr4nZUgH/view?usp=drive_link) et placez-le dans le répertoire `API` aux côtés de `app.py`.
+
+
+3. Lancez l'API Flask en exécutant `app.py` :
 
 
 ```bash
