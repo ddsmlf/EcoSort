@@ -21,7 +21,7 @@ EcoSort est une application mobile qui simplifie le tri des déchets en utilisan
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre système :
 
 - [Node.js](https://nodejs.org/) (pour l'application mobile)
-- [Python 3.7](https://www.python.org/downloads/release/python-3100/) (pour l'API Flask)
+- [Python 3.10](https://www.python.org/downloads/release/python-3100/) (pour l'API Flask)
 - [Git](https://git-scm.com/) (pour cloner le projet depuis le référentiel Git)
 
 ## Installation
