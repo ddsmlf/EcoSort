@@ -21,7 +21,7 @@ EcoSort est une application mobile qui simplifie le tri des déchets en utilisan
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre système :
 
 - [Node.js](https://nodejs.org/) (pour l'application mobile)
-- [Python 3.7](https://www.python.org/downloads/release/python-370/) (pour l'API Flask)
+- [Python 3.7](https://www.python.org/downloads/release/python-3100/) (pour l'API Flask)
 - [Git](https://git-scm.com/) (pour cloner le projet depuis le référentiel Git)
 
 ## Installation
@@ -44,7 +44,7 @@ cd EcoSort
 npm install
 ```
 
-4. Installez les dépendances Python requises pour l'API Flask en utilisant `pip`. Assurez-vous d'utiliser Python 3.7 et exécutez la commande suivante depuis le répertoire `API` :
+4. Installez les dépendances Python requises pour l'API Flask en utilisant `pip`. Assurez-vous d'utiliser Python 3.10 et exécutez la commande suivante depuis le répertoire `API` :
 
 ```bash
 pip install -r requirements.txt
