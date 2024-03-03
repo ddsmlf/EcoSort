@@ -99,11 +99,6 @@ npm start
 
 ## Auteurs
 
-- [AL BARAZI Farid](https://github.com/FaridAlBarazi)
 - [BOISSON Anaïs](https://github.com/anaisboisson52)
-- [FERNET Sebastien]()
-- [LO PINTO Matéo](https://github.com/Matelop132)
 - [REYNAUD Lucas](https://github.com/lucasbx33)
-- [SAINT-MARC Victorien]()
 - [COLIN Mélissa](https://github.com/ddsmlf)
-- [AWASSUME Kinsy Nyahim]()
